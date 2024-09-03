@@ -40,7 +40,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4071498073937254923}
-  m_Mesh: {fileID: 2427607495384756626, guid: b0f49de6668b3024c9610e450b561c65, type: 3}
+  m_Mesh: {fileID: 8723889904456615828, guid: a20c5f9ee50320c4d8a9a01764856735, type: 3}
 --- !u!23 &858204181709043990
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -83,3 +83,13 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1029 &102900000
+DefaultAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ArtPref_RoadSquare
+  m_Message: .prefab file is not a prefab. There are no GameObjects in the file.
+    Did you give the asset the wrong extension?
+  m_IsWarning: 1
